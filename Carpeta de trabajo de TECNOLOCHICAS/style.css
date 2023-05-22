@@ -1,0 +1,23 @@
+/*asi se pone un comentario en css*/
+
+body{background-color: rgb(246, 246, 246);
+color:#fc5672;font-family: font-family: 'Roboto Mono', monospace;
+font-family: 'Source Serif Pro', serif;;
+}
+
+h1{ 
+    color:#fc5672;}
+    h3{font-size: 30px;}
+    p{font-size: 20px;}
+    /*con img{width:00px cambio el tamaño de la imagen}*/
+    /*con img{height:00px cambio el largo de la imagen}*/
+    /*con img{border-style:---; le doy estilo a los bordes de la imagen}*/
+    /*con img{border-width:00px cambio el ancho del borde}*/
+    /*con img{border-color:el color-; cambio el color del borde}*/
+    img{border-style: double;
+        border-width: 5px;
+        border-color: rgb(240, 200, 205);
+        /*padding abre un espacio para las imagenes del borde y margin entre las imagenes */
+        padding: 10px;
+        margin: 5px;}
+        
